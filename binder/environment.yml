@@ -10,4 +10,4 @@ dependencies:
   - cython
   - pycairo
   - python-igraph
-  - sklearn
+  - scikit-learn
