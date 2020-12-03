@@ -2,10 +2,11 @@ name: pycon2019
 channels:
   - conda-forge
 dependencies:
-  - python=3.7
+  - python
   - pip
-  - pandas=0.24
+  - pandas
   - jupyterlab
   - matplotlib
   - cython
   - pycairo
+  - igraph-python
