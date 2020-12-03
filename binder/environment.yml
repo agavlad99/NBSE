@@ -9,4 +9,4 @@ dependencies:
   - matplotlib
   - cython
   - pycairo
-  - igraph-python
+  - python-igraph
